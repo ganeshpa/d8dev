@@ -1,4 +1,4 @@
-uuid: 810bfaab-85a3-42ab-aa92-49c10e4e0609
+uuid: 36c60a61-9f92-4dd5-8498-747afe5b6d30
 langcode: en
 status: true
 dependencies:
@@ -9,7 +9,7 @@ field_name: field_isbn
 entity_type: node
 type: string
 settings:
-  max_length: 500
+  max_length: 255
   is_ascii: false
   case_sensitive: false
 module: core

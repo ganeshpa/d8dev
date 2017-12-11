@@ -1,4 +1,4 @@
-uuid: 4bfae6a1-96bf-458b-b29d-506e60927398
+uuid: 4943968c-b964-4a42-8e8c-a02b55318367
 langcode: en
 status: true
 dependencies:
@@ -11,7 +11,7 @@ entity_type: node
 bundle: book
 label: ISBN
 description: ''
-required: true
+required: false
 translatable: false
 default_value: {  }
 default_value_callback: ''

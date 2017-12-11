@@ -1,4 +1,4 @@
-uuid: 3e91aaa5-c21c-4296-b6ce-b1363b6aa354
+uuid: 47c65650-aa17-409c-a03c-801cacfdb38c
 langcode: en
 status: true
 dependencies:
@@ -11,7 +11,7 @@ third_party_settings:
     parent: 'main:'
 name: Book
 type: book
-description: 'content creation for several books'
+description: ''
 help: ''
 new_revision: true
 preview_mode: 1

@@ -1,10 +1,9 @@
-uuid: 90971b1c-ae40-42b8-94f7-5f8b6864e73c
+uuid: acdddcc1-e55b-4030-bf7d-a3511ef02dfc
 langcode: en
 status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
-    - field.field.node.book.field_isbn
     - node.type.book
   module:
     - user
@@ -16,5 +15,4 @@ content:
   links:
     weight: 100
     region: content
-hidden:
-  field_isbn: true
+hidden: {  }

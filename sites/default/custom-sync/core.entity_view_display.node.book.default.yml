@@ -1,4 +1,4 @@
-uuid: 21a1afcb-4744-423b-a46c-9e782bdee629
+uuid: fad4553e-f328-4fb9-8e3c-65472bd7e629
 langcode: en
 status: true
 dependencies:
@@ -13,7 +13,7 @@ bundle: book
 mode: default
 content:
   field_isbn:
-    weight: 102
+    weight: 101
     label: above
     settings:
       link_to_entity: false

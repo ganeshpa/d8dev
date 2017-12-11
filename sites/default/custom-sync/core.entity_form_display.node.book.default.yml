@@ -1,4 +1,4 @@
-uuid: a934ab3a-ac41-4c7d-a2da-dfa11a3fbd11
+uuid: 9200204c-1f83-4cb7-ba39-05cde2c62471
 langcode: en
 status: true
 dependencies:
@@ -19,7 +19,7 @@ content:
     settings: {  }
     third_party_settings: {  }
   field_isbn:
-    weight: 122
+    weight: 121
     settings:
       size: 60
       placeholder: ''
